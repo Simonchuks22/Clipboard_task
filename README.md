@@ -8,8 +8,8 @@ CLIPBOARD LANDING PAGE
 Build a Clipboard Landing page and be able to make it Responsive to all devices
 
 ### Screenshot
-Design preview for the Clipboard landing page coding challenge
-![![desktop-preview.jpg](https://i.postimg.cc/hjd20CpT/desktop-preview.jpg)](https://postimg.cc/gXGyzK92)
+
+[![desktop-preview.jpg](https://i.postimg.cc/hjd20CpT/desktop-preview.jpg)](https://postimg.cc/gXGyzK92)
 
 
 
